@@ -1,0 +1,14 @@
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.AssemblyInfoInputs.cache
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.AssemblyInfo.cs
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.csproj.CoreCompileInputs.cache
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\bin\Debug\net9.0\BIBLIOTECA.exe
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\bin\Debug\net9.0\BIBLIOTECA.deps.json
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\bin\Debug\net9.0\BIBLIOTECA.runtimeconfig.json
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\bin\Debug\net9.0\BIBLIOTECA.dll
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\bin\Debug\net9.0\BIBLIOTECA.pdb
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.dll
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\refint\BIBLIOTECA.dll
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.pdb
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\BIBLIOTECA.genruntimeconfig.cache
+C:\Users\luisc\OneDrive\Imágenes\Escritorio\EJERCICIO POO\BIBLIOTECA\obj\Debug\net9.0\ref\BIBLIOTECA.dll
